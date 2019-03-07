@@ -5,7 +5,7 @@ def required_pods
     pod 'OpenBidSDK', '1.0.0'
 end
 
-
+//test comment for ci
 target 'SampleApp' do
     required_pods
 end
